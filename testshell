@@ -1,1 +1,1 @@
-echo "COMANDO ESEGUITO!"
+Write-Output "COMANDO ESEGUITO!"
