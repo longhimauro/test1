@@ -1,1 +1,1 @@
-Write-Host "COMANDO ESEGUITO!"
+echo "COMANDO ESEGUITO!"
